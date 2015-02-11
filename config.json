@@ -1,0 +1,14 @@
+{
+  "source": {
+    "host": "localhost",
+    "port": 6379,
+    "key": "",
+    "db": 1
+  },
+  "destination": {
+    "host": "localhost",
+    "port": 6379,
+    "key": "",
+    "db": 1
+  }
+}

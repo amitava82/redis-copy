@@ -1,0 +1,30 @@
+{
+  "name": "redis-copy",
+  "version": "1.0.0",
+  "description": "Copy redis hash",
+  "main": "redis-copy.js",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "async": "^0.7.0",
+    "underscore": "^1.7.0",
+    "redis": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitava82/redis-copy.git"
+  },
+  "keywords": [
+    "redis-copy",
+    "redis"
+  ],
+  "author": "amitava saha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitava82/redis-copy/issues"
+  },
+  "homepage": "https://github.com/amitava82/redis-copy"
+}
